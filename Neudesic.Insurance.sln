@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Neudesic.Insurance", "Neudesic.Insurance\Neudesic.Insurance.csproj", "{6D1F72FA-4D01-468A-A4A6-752999056855}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neudesic.Insurance.UnitTests", "Neudesic.Insurance.UnitTests\Neudesic.Insurance.UnitTests.csproj", "{FC8A81FF-4224-4AFB-B0C2-19E1804093DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D1F72FA-4D01-468A-A4A6-752999056855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D1F72FA-4D01-468A-A4A6-752999056855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D1F72FA-4D01-468A-A4A6-752999056855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D1F72FA-4D01-468A-A4A6-752999056855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC8A81FF-4224-4AFB-B0C2-19E1804093DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC8A81FF-4224-4AFB-B0C2-19E1804093DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC8A81FF-4224-4AFB-B0C2-19E1804093DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC8A81FF-4224-4AFB-B0C2-19E1804093DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DABD77A2-97CB-4CD5-98DE-589CB3EAC73F}
+	EndGlobalSection
+EndGlobal
